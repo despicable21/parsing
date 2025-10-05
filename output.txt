@@ -1,0 +1,167 @@
+
+Идентификатор транзакции: 67cca5974458829b1d32047ab48e7ef7933a850816c9482a5943d886cd8670b3
+Версия: b'\x00\x00\x00\x01'
+Время блокировки: 0
+
+Входы:
+  Вход 0:
+    Хэш предыдущей транзакции: 1004cbe80922a5052dd47fe5cf196e2e6319499d34311fdeec99e98ee4d1abbf
+    Индекс выхода: b'\x00\x00\x00\x06'
+    Скрипт: 483045022100b7f74c9c700958f74f4bf875d43c0eaa9fed68dbd28bf6e9c38ffbd3e11bf8920220379d2b033edf2d957812b16b859aee43cf48b5d1cd7daed7baba61ee4b40d0c8012102679a681d9b5bf5c672e0413997762664a17009038674b806bf27dd6b368d9b67
+
+Выходы:
+  Выход 0:
+    Сумма: 98916 сатоши (0.00098916 BTC)
+    Адрес: 154v8MBc4cCx5E676dUzzWv8nkjSuV8CJq
+    Тип скрипта: p2pkh
+    Скрипт: 76a9142c9e19549d5c9f1aca69bf80eef05eb51716f69488ac
+  Выход 1:
+    Сумма: 1000000 сатоши (0.01000000 BTC)
+    Адрес: 12XGWZgi7nPyyZzRuuHWJ16WVdDhGpkRFe
+    Тип скрипта: p2pkh
+    Скрипт: 76a91410b18d2eddd43ebb4efeb0d37cc895aed9fc275288ac
+  Выход 2:
+    Сумма: 2250000 сатоши (0.02250000 BTC)
+    Адрес: 38srad8AnTSVXwGBL4JaGVzkB7dc63UnJJ
+    Тип скрипта: p2sh
+    Скрипт: a9144ed5a8137046ad7115c28b55c05e81e551fcae8887
+  Выход 3:
+    Сумма: 3097834 сатоши (0.03097834 BTC)
+    Адрес: 1GT9JWJXeqrs9PzWjEx4mZEN6PxmFU93e7
+    Тип скрипта: p2pkh
+    Скрипт: 76a914a97ba1bb949583dc9dd877cf6a6a9b6a95573b5188ac
+  Выход 4:
+    Сумма: 6431049 сатоши (0.06431049 BTC)
+    Адрес: 33vjiKfHzzq42aYEaTBNNXMD9KHpEJXZrN
+    Тип скрипта: p2sh
+    Скрипт: a91418888b02e57be229677cbfe0447d7ab8a9ac2d8387
+  Выход 5:
+    Сумма: 7618816 сатоши (0.07618816 BTC)
+    Адрес: 1Hq2swWeEji3UyG6vQsxSKpyhacsKVcrs4
+    Тип скрипта: p2pkh
+    Скрипт: 76a914b8978bee9f5f8a873ef4d921eb5441f4a44f9fdf88ac
+  Выход 6:
+    Сумма: 8840657 сатоши (0.08840657 BTC)
+    Адрес: 157oDcPjP1wyLcaJF6zujKJ4h9FxZRfGT7
+    Тип скрипта: p2pkh
+    Скрипт: 76a9142d29944a93820d9636b7046bc27c7c2442782aa888ac
+  Выход 7:
+    Сумма: 18060550 сатоши (0.18060550 BTC)
+    Адрес: 1BYv2FUrzAqhnBsoCCbv4s5UE5nnCPHKi9
+    Тип скрипта: p2pkh
+    Скрипт: 76a91473ba69adf86a28f39dff7356b2f598164831c4fb88ac
+  Выход 8:
+    Сумма: 27185601 сатоши (0.27185601 BTC)
+    Адрес: 1L8UF3ynHDGnLPJFsRdb2fFigMo6CJQiGy
+    Тип скрипта: p2pkh
+    Скрипт: 76a914d1d40ad599c8e8b07e218f36f14ad93cb63a6c5b88ac
+  Выход 9:
+    Сумма: 27500000 сатоши (0.27500000 BTC)
+    Адрес: 13zB9JnXmiDRcat24aVbQTUmXH9ciXWv7F
+    Тип скрипта: p2pkh
+    Скрипт: 76a91420c06db394cfee9f6079754324342bbc1a02d9f788ac
+  Выход 10:
+    Сумма: 28421654 сатоши (0.28421654 BTC)
+    Адрес: 1J97uKqyKa1HRgpEJ3yqCMNgFPTpqiF53J
+    Тип скрипта: p2pkh
+    Скрипт: 76a914bc033a4703f809b33a8fb98edd06f5a0585a52f988ac
+  Выход 11:
+    Сумма: 29920000 сатоши (0.29920000 BTC)
+    Адрес: 13G8FbcPggcMQPP4d5hrF5dMee4vno85hN
+    Тип скрипта: p2pkh
+    Скрипт: 76a91418cc8b5c9a4e02b100391ecbaca373d9f8c3fc5b88ac
+  Выход 12:
+    Сумма: 35410000 сатоши (0.35410000 BTC)
+    Адрес: 18jsXs5XkjoNE39cfmYrgkKmB4ze66TZQh
+    Тип скрипта: p2pkh
+    Скрипт: 76a91454e48871392e38d5b713e5a3f9978c051f79f7a388ac
+  Выход 13:
+    Сумма: 37102879 сатоши (0.37102879 BTC)
+    Адрес: 1BF6RFmyiNPhG9sXwvHgsQH51LAgAvw7Hp
+    Тип скрипта: p2pkh
+    Скрипт: 76a914705b9aab4a36dbfb829d7b4c84775452ab26e82888ac
+  Выход 14:
+    Сумма: 39950000 сатоши (0.39950000 BTC)
+    Адрес: 1779B5oeZNQVrBFyLbCHbzwfcQk9fAU3i8
+    Тип скрипта: p2pkh
+    Скрипт: 76a91442fa12daece28ba72b3f6b0ce530309aaeb0d8c688ac
+  Выход 15:
+    Сумма: 44746364 сатоши (0.44746364 BTC)
+    Адрес: 1CSbxKwyCZE67gtfk9R8ogtb1v5QuzZDCx
+    Тип скрипта: p2pkh
+    Скрипт: 76a9147d80f5f1b81dcf821ca70a28527ae735b962d31888ac
+  Выход 16:
+    Сумма: 48224939 сатоши (0.48224939 BTC)
+    Адрес: 1Do7Sb8a19fZAtm5kYCYYnzh5c4g6n4NhG
+    Тип скрипта: p2pkh
+    Скрипт: 76a9148c5a053dcb926b220e7aba1e33509319c3b84b0388ac
+  Выход 17:
+    Сумма: 49850000 сатоши (0.49850000 BTC)
+    Адрес: 1HRVPAYpQDQ2k8nzo7QLCwvPXG1KJ5A6ux
+    Тип скрипта: p2pkh
+    Скрипт: 76a914b423b016cfb23efa4afb0e77f8851896a68afc7288ac
+  Выход 18:
+    Сумма: 49950000 сатоши (0.49950000 BTC)
+    Адрес: 1JLPCaPM4V35F7cJ9TYZorofqAmBPs6a6c
+    Тип скрипта: p2pkh
+    Скрипт: 76a914be2492a7dd60b8e4c9d2dd4b7952fd46930b4cc288ac
+  Выход 19:
+    Сумма: 52750000 сатоши (0.52750000 BTC)
+    Адрес: 3B1XAyLau7ZRUPuGcXYhVBhc9azUxVnEBN
+    Тип скрипта: p2sh
+    Скрипт: a914663908f6294adf8c775e7015f97d5c574cf070a887
+  Выход 20:
+    Сумма: 58606979 сатоши (0.58606979 BTC)
+    Адрес: 1JtuwPkVpdiUBEYxGzkkU2F1gdHqVK4ABT
+    Тип скрипта: p2pkh
+    Скрипт: 76a914c44b8ae95ad046610ecc6ea892168613da6ea97988ac
+  Выход 21:
+    Сумма: 61995531 сатоши (0.61995531 BTC)
+    Адрес: 13G8FbcPggcMQPP4d5hrF5dMee4vno85hN
+    Тип скрипта: p2pkh
+    Скрипт: 76a91418cc8b5c9a4e02b100391ecbaca373d9f8c3fc5b88ac
+  Выход 22:
+    Сумма: 103232526 сатоши (1.03232526 BTC)
+    Адрес: 19WUR5ZUdPcbHKU3D9wRGEaTVNZAJ4rEzq
+    Тип скрипта: p2pkh
+    Скрипт: 76a9145d53f444dbad0522059dec2abe2ef1ec9b7ac30588ac
+  Выход 23:
+    Сумма: 141409600 сатоши (1.41409600 BTC)
+    Адрес: 1Hv6cyNq9wY5zK5D7UeXTNyUe7se6KM3eV
+    Тип скрипта: p2pkh
+    Скрипт: 76a914b98cc001d2c979ba523731934b5b0292ee297f6488ac
+  Выход 24:
+    Сумма: 154938581 сатоши (1.54938581 BTC)
+    Адрес: 1rDWAxrwdz1VRAcFvmEyiqsX8dDpgozzt
+    Тип скрипта: p2pkh
+    Скрипт: 76a914094ed1aedda8ddde5ff8f64b19a3c103d006e8ba88ac
+  Выход 25:
+    Сумма: 160812712 сатоши (1.60812712 BTC)
+    Адрес: 13G8FbcPggcMQPP4d5hrF5dMee4vno85hN
+    Тип скрипта: p2pkh
+    Скрипт: 76a91418cc8b5c9a4e02b100391ecbaca373d9f8c3fc5b88ac
+  Выход 26:
+    Сумма: 179950000 сатоши (1.79950000 BTC)
+    Адрес: 1KDWojtraMq5vKXYXa4HnmqaV9uFmpvDYS
+    Тип скрипта: p2pkh
+    Скрипт: 76a914c7d022e61c2e7f699c3ec03cbc95caae0df57a6d88ac
+  Выход 27:
+    Сумма: 199950000 сатоши (1.99950000 BTC)
+    Адрес: 33DQiV2DPqrLqTiQfdWsyiL2DESCxdvLUi
+    Тип скрипта: p2sh
+    Скрипт: a91410b7a16885688e8f8963a5d149fb58942a5df07c87
+  Выход 28:
+    Сумма: 499950000 сатоши (4.99950000 BTC)
+    Адрес: 1DQcy5SUDV4VLhTrYanWVYxMuUjs72tBMy
+    Тип скрипта: p2pkh
+    Скрипт: 76a914881919a21cf2ebf445a94359971a0ac9f4b7045e88ac
+  Выход 29:
+    Сумма: 1050485311 сатоши (10.50485311 BTC)
+    Адрес: 1JUDdzrJtVuS97tx4fbCCc8P75AfomJ1B5
+    Тип скрипта: p2pkh
+    Скрипт: 76a914bf9feb3afdf572ce3b6caf7b463b5c1ec66ccb9588ac
+  Выход 30:
+    Сумма: 6824830576 сатоши (68.24830576 BTC)
+    Адрес: 1NDyJtNTjmwk5xPNhjgAMu4HDHigtobu1s
+    Тип скрипта: p2pkh
+    Скрипт: 76a914e8cea30989bd15530f819b766684b00dc7ba7cfa88ac
